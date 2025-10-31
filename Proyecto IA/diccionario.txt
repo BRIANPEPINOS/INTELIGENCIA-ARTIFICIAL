@@ -1,0 +1,228 @@
+avion : Vehículo que vuela transportando personas o carga.
+perro : Animal doméstico conocido por su lealtad.
+gato : Animal felino que caza ratones.
+casa : Construcción destinada a ser habitada.
+mesa : Mueble con superficie plana para colocar objetos.
+silla : Asiento con respaldo para una persona.
+libro : Conjunto de hojas impresas encuadernadas.
+flor : Parte colorida de las plantas que produce semillas.
+sol : Estrella que ilumina el sistema solar.
+luna : Satélite natural de la Tierra.
+mar : Gran masa de agua salada.
+rio : Corriente natural de agua que fluye hacia el mar.
+nube : Masa visible de vapor de agua en el cielo.
+montaña : Elevación natural de gran altura.
+campo : Terreno extenso fuera de las ciudades.
+ciudad : Conjunto urbano con edificios y servicios.
+bosque : Gran extensión de árboles y vegetación.
+auto : Vehículo de transporte terrestre motorizado.
+tren : Medio de transporte que circula sobre rieles.
+barco : Embarcación grande para navegar por el mar.
+avioneta : Aeronave más pequeña que un avión.
+bicicleta : Vehículo de dos ruedas impulsado con pedales.
+motocicleta : Vehículo de dos ruedas con motor.
+camion : Vehículo grande usado para transporte de carga.
+tractor : Vehículo agrícola para labores del campo.
+puente : Estructura que une dos puntos separados.
+carretera : Camino principal para vehículos.
+camino : Vía o senda que permite el tránsito.
+puerta : Abertura que permite entrar o salir de un lugar.
+ventana : Abertura que deja pasar luz o aire.
+techo : Parte superior que cubre una construcción.
+pared : Elemento vertical que separa espacios.
+suelo : Superficie sobre la que caminamos.
+reloj : Instrumento que indica la hora.
+telefono : Dispositivo para comunicarse a distancia.
+computadora : Máquina electrónica que procesa información.
+raton : Dispositivo que controla el cursor en una pantalla.
+teclado : Conjunto de teclas usado para ingresar datos.
+pantalla : Superficie donde se muestran imágenes o texto.
+impresora : Máquina que produce copias físicas de documentos.
+cable : Conductor de electricidad o información.
+camara : Dispositivo para capturar imágenes.
+televisor : Aparato que reproduce imágenes en movimiento.
+radio : Medio de comunicación auditivo.
+internet : Red mundial de computadoras interconectadas.
+pagina : Cada cara de una hoja o sitio web.
+correo : Sistema para enviar mensajes o paquetes.
+robot : Máquina programable que realiza tareas.
+drone : Vehículo aéreo no tripulado controlado a distancia.
+sensor : Dispositivo que detecta variaciones físicas.
+motor : Máquina que transforma energía en movimiento.
+energia : Capacidad para realizar un trabajo.
+bateria : Fuente portátil de energía eléctrica.
+luz : Forma de energía visible.
+sonido : Vibración que se propaga por el aire.
+voz : Sonido emitido por el ser humano.
+musica : Arte de combinar sonidos en el tiempo.
+nota : Símbolo que representa un sonido musical.
+instrumento : Objeto usado para producir música.
+guitarra : Instrumento de cuerda pulsada.
+piano : Instrumento de teclado con cuerdas percutidas.
+trompeta : Instrumento de viento metálico.
+tambor : Instrumento de percusión de forma cilíndrica.
+violonchelo : Instrumento de cuerda frotada.
+arpa : Instrumento musical con cuerdas verticales.
+flauta : Instrumento de viento hecho de tubo.
+microfono : Dispositivo que capta sonidos.
+altavoz : Aparato que emite sonidos amplificados.
+computo : Proceso de cálculo o procesamiento digital.
+dato : Unidad básica de información.
+algoritmo : Conjunto de pasos para resolver un problema.
+programa : Conjunto de instrucciones ejecutables.
+codigo : Representación simbólica de instrucciones.
+variable : Espacio en memoria para guardar un valor.
+funcion : Bloque de código que realiza una tarea.
+objeto : Entidad que combina datos y funciones.
+clase : Plantilla para crear objetos en programación.
+metodo : Acción definida dentro de una clase.
+bucle : Estructura que repite instrucciones.
+condicion : Expresión que evalúa una decisión.
+lista : Colección ordenada de elementos.
+conjunto : Grupo de elementos únicos.
+diccionario : Estructura que asocia claves y valores.
+pila : Estructura LIFO en programación.
+cola : Estructura FIFO para procesar elementos.
+arbol : Estructura jerárquica con nodos conectados.
+grafo : Conjunto de nodos y aristas relacionadas.
+nodo : Elemento básico de una estructura.
+raiz : Nodo inicial de un árbol.
+hoja : Nodo sin hijos.
+camino : Secuencia de nodos conectados.
+nivel : Profundidad o altura de un nodo.
+busqueda : Proceso de encontrar un valor.
+profundidad : Nivel de recorrido en un árbol.
+ancho : Expansión lateral de una búsqueda.
+heuristica : Estrategia para guiar una búsqueda.
+limite : Restricción de profundidad o alcance.
+iteracion : Repetición de un proceso.
+exploracion : Acción de visitar nodos.
+recorrido : Secuencia de visitas a nodos.
+objetivo : Nodo meta o destino.
+inicio : Nodo raíz o punto de partida.
+visitado : Nodo que ya fue explorado.
+frontera : Conjunto de nodos por explorar.
+expansion : Generación de sucesores.
+fallo : Resultado negativo de una búsqueda.
+solucion : Resultado que cumple el objetivo.
+podar : Eliminar ramas innecesarias.
+profesor : Persona que enseña conocimientos.
+alumno : Persona que recibe instrucción.
+escuela : Lugar donde se enseña y aprende.
+universidad : Institución de educación superior.
+colegio : Establecimiento educativo.
+aula : Espacio donde se imparten clases.
+libreta : Cuaderno usado para escribir apuntes.
+lapiz : Instrumento para escribir o dibujar.
+pluma : Herramienta de escritura con tinta.
+tinta : Líquido usado para escribir o imprimir.
+papel : Material sobre el que se escribe.
+mochila : Bolsa para transportar objetos personales.
+uniforme : Vestimenta común para estudiantes.
+pizarra : Superficie para escribir con tiza o marcador.
+tiza : Barra usada para escribir en pizarra.
+marcador : Instrumento de escritura con punta de fieltro.
+borrador : Objeto usado para limpiar una superficie.
+regla : Instrumento para medir longitudes.
+compas : Instrumento para trazar círculos.
+mapa : Representación gráfica de un territorio.
+globo : Esfera que representa la Tierra.
+planeta : Cuerpo celeste que orbita una estrella.
+estrella : Astro que emite luz propia.
+galaxia : Conjunto de estrellas, gas y polvo cósmico.
+universo : Totalidad de todo lo que existe.
+espacio : Extensión donde ocurren los fenómenos físicos.
+astronauta : Persona que viaja al espacio.
+cohete : Vehículo que se propulsa mediante combustión.
+satellite : Objeto que orbita alrededor de otro cuerpo.
+meteorito : Fragmento que cae desde el espacio.
+cometa : Cuerpo celeste con núcleo y cola luminosa.
+orbita : Trayectoria de un cuerpo alrededor de otro.
+gravedad : Fuerza que atrae los cuerpos entre sí.
+masa : Cantidad de materia de un cuerpo.
+peso : Fuerza con que la gravedad actúa sobre la masa.
+densidad : Relación entre masa y volumen.
+volumen : Espacio ocupado por un cuerpo.
+area : Superficie delimitada por un contorno.
+longitud : Medida de la distancia entre dos puntos.
+temperatura : Medida del calor o frío.
+presion : Fuerza ejercida sobre una superficie.
+energia : Capacidad para realizar un trabajo.
+potencia : Cantidad de energía por unidad de tiempo.
+fuerza : Magnitud que produce movimiento o deformación.
+movimiento : Cambio de posición de un objeto.
+velocidad : Rapidez de un cuerpo en movimiento.
+aceleracion : Cambio de velocidad en el tiempo.
+materia : Todo lo que tiene masa y ocupa espacio.
+elemento : Sustancia que no puede dividirse químicamente.
+atomo : Unidad básica de la materia.
+molecula : Conjunto de átomos unidos.
+compuesto : Sustancia formada por varios elementos.
+mezcla : Unión de dos o más sustancias sin reacción química.
+reaccion : Proceso químico de transformación.
+gas : Estado de la materia sin forma fija.
+liquido : Estado con volumen fijo pero forma variable.
+solido : Estado con forma y volumen definidos.
+plasma : Estado de la materia con partículas cargadas.
+cambio : Variación en una propiedad o condición.
+calor : Energía térmica en tránsito.
+frio : Sensación opuesta al calor.
+clima : Conjunto de condiciones atmosféricas.
+lluvia : Precipitación de agua en forma líquida.
+nieve : Precipitación de cristales de hielo.
+viento : Movimiento del aire en la atmósfera.
+tormenta : Fenómeno con lluvia, truenos y relámpagos.
+trueno : Sonido producido por un rayo.
+rayo : Descarga eléctrica en la atmósfera.
+relampago : Luz intensa generada por un rayo.
+huracan : Tormenta tropical de gran intensidad.
+terremoto : Movimiento brusco del suelo terrestre.
+volcan : Montaña que expulsa lava y gases.
+lava : Material fundido expulsado por un volcán.
+roca : Material sólido natural de la corteza terrestre.
+arena : Conjunto de granos minerales finos.
+tierra : Planeta donde vivimos o superficie del suelo.
+metal : Elemento sólido conductor de electricidad y calor.
+madera : Material obtenido de los árboles.
+vidrio : Material transparente obtenido al fundir arena.
+plastico : Material sintético moldeable.
+tela : Material formado por hilos entrelazados.
+ropa : Conjunto de prendas de vestir.
+zapato : Calzado que cubre el pie.
+sombrero : Prenda que cubre la cabeza.
+abrigo : Prenda que protege del frío.
+camisa : Prenda superior de vestir.
+pantalon : Prenda que cubre las piernas.
+falda : Prenda femenina que cubre desde la cintura.
+vestido : Prenda de una sola pieza.
+cinturon : Banda que rodea la cintura.
+reloj : Instrumento que marca el tiempo.
+anillo : Aro usado como adorno en los dedos.
+collar : Adorno que se lleva alrededor del cuello.
+arete : Joya que se coloca en la oreja.
+bolso : Objeto para guardar pertenencias.
+cartera : Accesorio para guardar dinero y documentos.
+moneda : Pieza metálica usada como dinero.
+billete : Papel que representa una cantidad de dinero.
+banco : Institución financiera que guarda dinero.
+cuenta : Registro de dinero o valores.
+tarjeta : Medio de pago electrónico.
+credito : Préstamo de dinero con compromiso de pago.
+debito : Cargo realizado a una cuenta.
+comercio : Actividad de comprar y vender productos.
+mercado : Lugar donde se realizan intercambios.
+producto : Bien fabricado o cultivado.
+servicio : Actividad que satisface una necesidad.
+cliente : Persona que compra o contrata un servicio.
+empresa : Organización que produce bienes o servicios.
+trabajo : Actividad humana remunerada o no.
+empleado : Persona que trabaja para otra.
+jefe : Persona que dirige a un grupo.
+oficina : Lugar donde se realizan tareas administrativas.
+computadora : Máquina que procesa datos.
+tecnologia : Conjunto de conocimientos aplicados a resolver problemas.
+innovacion : Creación de algo nuevo o mejorado.
+industria : Actividad económica de transformación de materias.
+energia : Capacidad para realizar trabajo.
+recurso : Medio que se utiliza para un fin.
+planeta : Cuerpo celeste que orbita una estrella.
